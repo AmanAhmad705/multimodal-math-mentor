@@ -123,3 +123,5 @@ This allows behavior to be tuned without modifying multiple files.
 ## License
 
 This project is intended for evaluation and demonstration purposes.
+
+_Last updated: Dec 2025_
