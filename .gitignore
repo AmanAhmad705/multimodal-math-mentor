@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Virtual env
+venv/
+.env/
+
+# Streamlit
+.streamlit/
+
+# Data (do NOT commit runtime data)
+data/*.db
+data/faiss_index/
+
+# OS
+.DS_Store
