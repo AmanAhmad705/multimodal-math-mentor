@@ -111,15 +111,6 @@ This allows behavior to be tuned without modifying multiple files.
 
 ---
 
-## Demo & Deployment
-
-- **Live App:** Deployed using Streamlit Cloud  
-- **Demo Video:** End-to-end walkthrough and brief code overview  
-
-(Links provided separately during submission.)
-
----
-
 ## License
 
 This project is intended for evaluation and demonstration purposes.
